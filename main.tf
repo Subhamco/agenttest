@@ -63,7 +63,7 @@ resource "azurerm_virtual_machine" "main" {
   }
 }
 
-Yeh block define karta hai ki firewall kis subnet me lagega aur kaunsa public IP use karega.
+#Yeh block define karta hai ki firewall kis subnet me lagega aur kaunsa public IP use karega.
 
 
 
